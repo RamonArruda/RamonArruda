@@ -24,5 +24,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Corey Taylor - Live in London](https://youtu.be/uetFO7y8WPA)<br/>
 - [Charlie Brown Jr. - Acústico MTV 4K](https://youtube.com/playlist?list=PLWA7TqGYW-8d9IbAmStQ-RXcCb6VxrCbZ)<br/>
 - [Lynyrd Skynyrd - Simple Man](https://www.youtube.com/watch?v=Mqfwbf3X8SA)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+- [R.E.M. - Losing My Religion](https://www.youtube.com/watch?v=xwtdhWltSIg)<br/>
 
