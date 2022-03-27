@@ -20,9 +20,9 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
+### Vídeos para Relaxar com uma Boa e Velha música.:
+- [Corey Taylor - Live in London](https://youtu.be/uetFO7y8WPA)<br/>
+- [Charlie Brown Jr. - Acústico MTV 4K](https://youtube.com/playlist?list=PLWA7TqGYW-8d9IbAmStQ-RXcCb6VxrCbZ)<br/>
+- [Lynyrd Skynyrd - Simple Man](https://www.youtube.com/watch?v=Mqfwbf3X8SA)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
 
