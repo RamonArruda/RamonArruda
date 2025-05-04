@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=DBFFFF&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Ramon+Arruda.+Welcome+to+my+profile.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=555555&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Ramon+Arruda.+Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-arruda-993784212/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramonarruda000)
